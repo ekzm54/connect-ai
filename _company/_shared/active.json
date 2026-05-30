@@ -33,5 +33,10 @@
     "activatedAt": "2026-05-30T10:59:57.738Z",
     "seeded": true
   },
-  "_migrated_v3": true
+  "_migrated_v3": true,
+  "video": {
+    "activatedAt": "2026-05-30T16:05:14.703Z",
+    "seeded_v4": true
+  },
+  "_migrated_v4": true
 }
